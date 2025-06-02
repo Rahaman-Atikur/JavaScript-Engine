@@ -1,0 +1,5 @@
+1. (a) Write a function that display a function 
+after 5s.
+   (b) Write a function called DelayedGreetings() that 
+   take two parameters,name and delay times, and logs a 
+   greeting messages after delay time. 
